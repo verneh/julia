@@ -6,4 +6,14 @@ Image Transformations in ![images.jl](https://github.com/verneh/julia/blob/main/
 
 Filters in ![filter.jl](https://github.com/verneh/julia/blob/main/filter.jl)
 
-![Filter](https://github.com/verneh/julia/blob/main/images/sharpen.png)
+Contrast
+
+![Contrast](https://github.com/verneh/julia/blob/main/images/contrast.png)
+
+Pixel
+
+![Pixel](https://github.com/verneh/julia/blob/main/images/pixel.png)
+
+Sharpen
+
+![Sharpen](https://github.com/verneh/julia/blob/main/images/sharpen.png)
